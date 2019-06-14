@@ -1,10 +1,4 @@
 # backupScript
-################################################################################
-#       Script Writter:Nishat Ahmed                                            #
-#       Script Purpose:For backup of data                                      #
-#       Script Working:This script sends specified file through E-mail         #
-################################################################################
-#required libraries
 import email
 import smtplib
 from email.mime.multipart import MIMEMultipart
